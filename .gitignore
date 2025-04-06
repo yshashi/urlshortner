@@ -1,0 +1,11 @@
+.idea
+bin
+obj
+.DS_Store
+
+node_modules
+wwwroot
+.config
+.vscode
+.angular
+appsettings.json
